@@ -9,3 +9,11 @@ stay up-to-date with your remote repository?
 Pulling automatically might be a problem if two or more people are accessing and editing the 
 same repositories and branches.
 
+Describe the differences between forks, clones, and branches. When would you use one instead
+of another?
+
+A branch exists within a single repository, while forks and clones operate between two
+different repositories.  A clone is a copy of a git repository either from github to 
+your local drive, or between two locations on your local drive.  A fork is like a clone
+but only between two repositories on github.
+
