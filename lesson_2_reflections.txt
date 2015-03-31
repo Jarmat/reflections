@@ -17,3 +17,13 @@ You can check the staging area by using the "git diff" to see the changes that w
 added to the staging area, and "git diff --staged" to compare the differences between the
 last commit and the changes in the staging area.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching makes it easy to try new experimental features without risking loosing your working code.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you more easily see the parents, and branches for each commit, as well as
+seeing which commits are reachable and where a new branch might need to be created.
+
+ 
