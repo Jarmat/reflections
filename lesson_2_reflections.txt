@@ -11,3 +11,9 @@ only those files to be added to the next commit, and not every file in the
 directory.  It differs from the repository because it contains only the changes
 to be added to the next commit, while the repository contains all commits.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check the staging area by using the "git diff" to see the changes that were last
+added to the staging area, and "git diff --staged" to compare the differences between the
+last commit and the changes in the staging area.
+
